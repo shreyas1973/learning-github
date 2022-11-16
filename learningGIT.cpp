@@ -4,11 +4,12 @@ using namespace std;
 int main()
 {
 cout<<"enter two numbers"<<endl;
-int a,b;
+int a,b,c;
 cin>>a>>b;
-
+c=a*b;
 a+=b;
-cout<<a;
+
+cout<<a<<" "<<c;
 
 return 0;
 
