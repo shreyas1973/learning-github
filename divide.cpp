@@ -8,7 +8,7 @@ int a,b,c;
 cin>>a>>b;
 c=a/b;
 
-cout<<c;
+cout<<"answer is "<<c;
 
 return 0;
 }
